@@ -3,7 +3,7 @@ Checking players who can have any hack clients in minecraft.
 
 ## How to use
 
-⚠️⚠️ You need winrar app in your computer ⚠️⚠️
+### ⚠️⚠️ You need [winrar app](https://www.winrar.pl/winrar/pobierz) in your computer ⚠️⚠️
 
 1. Download VersionChecker-Winrar.bat .
 2. Drag File to Desktop
