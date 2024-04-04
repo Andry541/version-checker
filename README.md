@@ -12,3 +12,5 @@ Checking players who can have any hack clients in minecraft.
 5. Login into the site
 6. Upload File(s) from desktop
 7. Get a Results
+
+## If you don't have a winrar or program for winrar don't working, you can download official version checker. It don't use any programs.
