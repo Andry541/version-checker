@@ -1,4 +1,4 @@
-# VersionChecker [![Latest Version](https://github.com/AndryOnTop13243/version-checker/releases/tag/v0.2)]
+# VersionChecker [![Latest Version](https://github.com/AndryOnTop13243/version-checker/releases/tag/v0.3)]
 
 # Client Support Tab
 
