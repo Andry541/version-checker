@@ -2,7 +2,7 @@
 
 # Client Support Tab
 
-#ALL LAUNCHERS SUPPORT
+# ALL LAUNCHERS SUPPORT
 
 Support?
 ✅ - Yes
