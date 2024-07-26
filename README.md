@@ -1,6 +1,8 @@
-# VersionChecker [![Latest Version](https://github.com/Andry541/version-checker/releases/tag/v0.3)]
+# VersionChecker [![Latest Version](https://github.com/Andry541/version-checker/releases/tag/v0.4)]
 
 # Client Support Tab
+
+#ALL LAUNCHERS SUPPORT
 
 Support?
 ✅ - Yes
@@ -11,10 +13,10 @@ Support?
 |-------------------|---------|
 | Lunar Client         |   ✅ |
 | Feather Client       |   ✅ |
-| Badlion Client       |   ❓ |
-| Labymod Client       |   ❓ |
+| Badlion Client       |   ✅ |
+| Labymod Client       |   ✅ |
 | Official Launcher    |   ✅ |
-| Offline Launchers    |   ❓ |
+| Offline Launchers    |   ✅ |
 
 ## Installation
 
